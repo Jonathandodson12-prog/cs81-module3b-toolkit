@@ -28,3 +28,10 @@
 **isOdd(4)** → I expect: false  
 **isOdd(0)** → I expect: false  
 **isOdd(-7)** → I expect: true  
+
+## modulo(a, b)
+
+**modulo(10, 3)** → I expect: 1  
+**modulo(15, 5)** → I expect: 0  
+**modulo(7, 4)** → I expect: 3  
+**modulo(9, 2)** → I expect: 1  

@@ -22,3 +22,10 @@ console.log("double(0) →", double(0));
 **isOdd(4)** → Returned: false ✅  
 **isOdd(0)** → Returned: false ✅  
 **isOdd(-7)** → Returned: true ✅  
+
+## modulo(a, b)
+
+**modulo(10, 3)** → Returned: 1 ✅  
+**modulo(15, 5)** → Returned: 0 ✅  
+**modulo(7, 4)** → Returned: 3 ✅  
+**modulo(9, 2)** → Returned: 1 ✅  

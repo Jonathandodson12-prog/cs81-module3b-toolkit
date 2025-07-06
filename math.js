@@ -36,3 +36,12 @@ console.log("isOdd(4) →", isOdd(4));
 console.log("isOdd(0) →", isOdd(0));
 console.log("isOdd(-7) →", isOdd(-7));
 
+// Get the remainder of a divided by b
+function modulo(a, b) {
+  return a % b;
+}
+console.log("modulo(10, 3) →", modulo(10, 3));
+console.log("modulo(15, 5) →", modulo(15, 5));
+console.log("modulo(7, 4) →", modulo(7, 4));
+console.log("modulo(9, 2) →", modulo(9, 2));
+
