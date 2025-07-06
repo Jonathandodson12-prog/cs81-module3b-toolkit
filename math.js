@@ -27,3 +27,12 @@ console.log("square(0) →", square(0));
 console.log("square(-4) →", square(-4));
 console.log("square(10) →", square(10));
 
+// Check if a number is odd
+function isOdd(n) {
+  return n % 2 !== 0;
+}
+console.log("isOdd(3) →", isOdd(3));
+console.log("isOdd(4) →", isOdd(4));
+console.log("isOdd(0) →", isOdd(0));
+console.log("isOdd(-7) →", isOdd(-7));
+

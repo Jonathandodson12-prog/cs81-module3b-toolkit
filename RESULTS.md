@@ -15,3 +15,10 @@ console.log("double(0) →", double(0));
 **multiply(0, 100)** → Returned: 0 ✅  
 **multiply(-4, 5)** → Returned: -20 ✅  
 **multiply(7, -8)** → Returned: -56 ✅  
+
+## isOdd(n)
+
+**isOdd(3)** → Returned: true ✅  
+**isOdd(4)** → Returned: false ✅  
+**isOdd(0)** → Returned: false ✅  
+**isOdd(-7)** → Returned: true ✅  

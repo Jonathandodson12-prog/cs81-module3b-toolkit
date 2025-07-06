@@ -21,3 +21,10 @@
 **square(0)** → I expect: 0  
 **square(-4)** → I expect: 16  
 **square(10)** → I expect: 100  
+
+## isOdd(n)
+
+**isOdd(3)** → I expect: true  
+**isOdd(4)** → I expect: false  
+**isOdd(0)** → I expect: false  
+**isOdd(-7)** → I expect: true  
