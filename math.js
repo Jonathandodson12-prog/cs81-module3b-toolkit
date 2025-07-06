@@ -6,6 +6,8 @@ console.log("double(2) →", double(2));
 console.log("double(5) →", double(5));
 console.log("double(-3) →", double(-3));
 console.log("double(0) →", double(0));
+
+
 // Multiply two numbers
 function multiply(a, b) {
   return a * b;
@@ -14,3 +16,14 @@ console.log("multiply(2, 3) →", multiply(2, 3));
 console.log("multiply(0, 100) →", multiply(0, 100));
 console.log("multiply(-4, 5) →", multiply(-4, 5));
 console.log("multiply(7, -8) →", multiply(7, -8));
+
+
+// Square a number
+function square(n) {
+  return n * n;
+}
+console.log("square(2) →", square(2));
+console.log("square(0) →", square(0));
+console.log("square(-4) →", square(-4));
+console.log("square(10) →", square(10));
+
